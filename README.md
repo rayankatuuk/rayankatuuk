@@ -22,25 +22,25 @@
 </h5>
 
 <h5 align='center'>
-Connect With Me<br/><br/>
-</h5>
-
-<div align="center">
-  <a href="https://github.com/rayankatuuk">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:rayankatuuk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/rayankatuuk">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a><br/><br/>
-</div>
-
-<h5 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%203060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+<br/><br/><br/></h5>
+
+<h5 align='center'>
+Connect With Me<br/>
 </h5>
+
+<div align="center">
+  <a href="https://github.com/rayankatuuk">
+    <img src="https://skillicons.dev/icons?i=github" width="32" />
+  </a>
+  <a href="mailto:rayankatuuk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32"/>
+  </a>
+  <a href="https://linkedin.com/in/rayankatuuk">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
+  </a><br/><br/>
+</div>
