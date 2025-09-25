@@ -40,7 +40,7 @@ Connect With Me<br/>
   <a href="mailto:rayankatuuk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="32"/>
   </a>
-  <a href="https://linkedin.com/in/rayankatuuk">
+  <a href="https://linkedin.com/in/rayan-katuuk">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
   </a><br/><br/>
 </div>
